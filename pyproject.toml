@@ -1,0 +1,9 @@
+[project]
+name = "obsidian-assistant-adk"
+version = "0.1.0"
+description = "Obsidian Assistant ADK Agent"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-adk>=1.19.0",
+]
