@@ -1,5 +1,6 @@
 # Project-specific ignores
 outputs/obsidian_vault/
+obsidian_vault_dummy/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
